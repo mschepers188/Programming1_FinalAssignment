@@ -18,12 +18,17 @@ To utilize the script, please run all code chunks. If errors appear, please chec
 If issues persist, please contact me at m.a.schepers@st.hanze.nl
 
 ## File manifest
+
 Besides this README file, this github repository contains the following files:
 * FinalProject_Programming1.ipynb
+
 The project which downloads the required data, performs statiscal analysis and creates relevant visualizations.  
 * FinalVisualization.pdf
+
 Contains two scattter plots and two violin plots which attempt to answer the research question.
 * Info_FinalAssigmentProgr_MASchepers.docx
+
 Contains more information on the research question and clarifies the chosen methodology.
 * LICENSE
+
 The licencing for this project.
