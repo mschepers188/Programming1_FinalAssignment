@@ -1,18 +1,15 @@
 # Programming1_FinalAssignment
 
 ## Required modules
-To use the FinalProject_Programming1.ipynb script, please have the following libraries installed with their most recent version:
-* pandas
-* requests
-* zipfile
-* io
-* urllib3
-* plotly
-* panel
-* researchpy
-* scipy
-* numpy
-* pylab
+To use the FinalProject_Programming1.ipynb script, please have jupyter notebook installed. Additionally, please have the following libraries installed with the suggested version:
+* pandas 1.3.4
+* requests 2.26.0
+* urllib3 1.26.7
+* plotly 5.5.0
+* panel 0.12.6
+* researchpy 0.3.2
+* scipy 1.7.1
+* numpy 1.20.3
 
 
 ## Operating instruction
